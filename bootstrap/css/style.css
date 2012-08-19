@@ -1,3 +1,21 @@
+body {
+	padding-bottom: 40px;
+}
+
 .header{
 	margin-top:1%;
+}
+
+.nav-images{
+	margin-left:200px;
+	margin-top:100px;
+}
+
+.subnav .hoverlink:hover{
+	cursor:pointer;
+	color:white;
+}
+
+.subnav{
+	text-align: center;
 }
