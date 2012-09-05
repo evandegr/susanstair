@@ -19,3 +19,13 @@ body {
 .subnav{
 	text-align: center;
 }
+
+.viewer{
+	margin-top:150px;
+	margin-left:200px;
+	margin-bottom:200px;
+}
+
+#templates{
+	display:none;
+}
