@@ -3,14 +3,20 @@
  */
 
 (function(){
+	
+	var url = window.location.href.split('.')[0].split('/'),
+	url_root = window.location.href.split('/').length > 2 ? '../' : '',
+	jsonfilename = url[url.length-1],
+	jsonfullpath = url_root + 'json/' + jsonfilename + '.json';
+	
 	initCarousel();
 	
 	function initCarousel(){
 		var $templates = $('#templates');
 		
-		$.get('templates/slideshow.html',function(data){
+		$.get(url_root + 'templates/slideshow.html',function(data){
 			$templates.append($(data));
-			fillCarousel('../json/rockfaces.json');
+			fillCarousel(jsonfullpath);
 		});
 	}
 
@@ -33,6 +39,7 @@
 		$item = $templates.find('.item').clone();
 		
 		$carousel.find('.item').remove();
+		
 		$.each(data,function(){
 			var $itemClone = $item.clone();
 			

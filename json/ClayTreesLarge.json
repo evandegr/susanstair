@@ -1,0 +1,14 @@
+[{
+	    "src": "images/clay-drawings/clay-trees-large/full/Aspen-Tree.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-trees-large/thumbnail/aspen-tree-thumbnail.jpg",
+	    "label": 'Aspen Tree',
+		"description" : '47" x 7" x 2"',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-trees-large/full/Cedar-Tree.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-trees-large/thumbnail/cedar-tree-thumbnail.jpg",
+	    "label": 'Cedar Tree',
+		"description" : '44" x 7" x 2"',
+		"id": ?, //unique id
+	}]

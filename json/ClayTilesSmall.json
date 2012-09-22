@@ -1,0 +1,42 @@
+[{
+	    "src": "images/clay-drawings/clay-tiles-small/full/Aspen.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/aspen-thumbnail.jpg",
+	    "label": 'Aspen',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-small/full/Fox-Valley.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/fox-valley-thumbnail.jpg",
+	    "label": 'Fox Valley',
+		"description" : '',
+		"id": ?, //unique id
+	},
+		{
+	    "src": "images/clay-drawings/clay-tiles-small/full/Osage-Orange.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/osage-orange-thumbnail.jpg",
+	    "label": 'Osage Orange',
+		"description" : '',
+		"id": ?, //unique id
+	},
+		{
+	    "src": "images/clay-drawings/clay-tiles-small/full/Scotch-Pine.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/scotch-pine-thumbnail.jpg",
+	    "label": 'Scotch Pine',
+		"description" : '',
+		"id": ?, //unique id
+	},
+		{
+	    "src": "images/clay-drawings/clay-tiles-small/full/clay-tile-small-5.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+		{
+	    "src": "images/clay-drawings/clay-tiles-small/full/clay-tile-small-array.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/thumbnail/.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	}]

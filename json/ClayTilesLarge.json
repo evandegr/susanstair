@@ -1,0 +1,63 @@
+[{
+	    "src": "images/clay-drawings/clay-tiles-large/full/elm.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/clay-tile-large-thumbnail-1.jpg",
+	    "label": "Elm",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "1"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/dawn-redwood.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/clay-tile-large-2.jpg",
+	    "label": "Dawn Redwood",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "2"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/cedar.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/cedar-thumbnail.jpg",
+	    "label": "Cedar",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "3"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/fraser-fir.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/fraser-fir-thumbnail.jpg",
+	    "label": "Fraser Fir",
+		"description" : "9\" x 9\" x 1, Clay",
+		"id": "4"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/osage-orange-altar.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/osage-orange-altar-thumbnail.jpg",
+	    "label": "Osage Orange Altar",
+		"description" : "9\" x 10\" x 1\", Clay",
+		"id": "5"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/old-apple.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/old-apple-thumbnail.jpg",
+	    "label": "Old Apple",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "6"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/Scotch-Pine-#547.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/.jpg",
+	    "label": "Scotch Pine #547",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "7"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/Scotch-Pine-Altar.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/.jpg",
+	    "label": "?",
+		"description" : "9\" x 12\" x 1\"",
+		"id": "8"
+	},
+	{
+	    "src": "images/clay-drawings/clay-tiles-large/full/white-birch.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-tiles-large/thumbnail/.jpg",
+	    "label": "White Birch",
+		"description" : "9\" x 9\" x 1\"",
+		"id": "9"
+	}]

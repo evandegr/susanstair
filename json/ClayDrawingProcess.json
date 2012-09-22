@@ -1,0 +1,63 @@
+[{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-1.jpg",
+	    "thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+		"label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-2.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-3.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-4.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-5.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-6.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-7.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-8.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/clay-drawings/clay-drawing-process/full/clay-drawing-process-9.jpg",
+		"thumbnailsrc": "images/clay-drawings/clay-drawing-process/thumbnail/clay-drawing-process-1.jpg",
+	    "label": '?',
+		"description" : '',
+		"id": ?, //unique id
+	}]

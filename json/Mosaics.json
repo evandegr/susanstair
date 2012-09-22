@@ -1,0 +1,28 @@
+[{
+	    "src": "images/mosaics/full/Phipps full mosaic, 4'x5',6_11 copy.jpg",
+		"thumbnailsrc": "images/mosaics/thumbnail/phipps-thumbnail.jpg",
+	    "label": 'Phipps Mosaic',
+		"description" : '4' x 5'',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/mosaics/full/PS 119, _Land_, 5'x5'.jpg",
+		"thumbnailsrc": "images/mosaics/thumbnail/land-thumbnail.jpg",
+	    "label": 'PS 119 'Land'',
+		"description" : '5' x 5'',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/mosaics/full/PS 119, _Sea_, 5'x5'.jpg",
+		"thumbnailsrc": "images/mosaics/thumbnail/ps119-thumbnail.jpg",
+	    "label": 'PS 119 Sea',
+		"description" : '5' x 5'',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/mosaics/full/PS 189, By the Waters Mural, 9'x18', 9_09.jpg",
+		"thumbnailsrc": "images/mosaics/thumbnail/by-the-waters-mural-thumbnail.jpg",
+	    "label": 'PS 189 By the Waters Mural',
+		"description" : '9' x 18'',
+		"id": ?, //unique id
+	},

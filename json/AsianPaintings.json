@@ -1,0 +1,36 @@
+[{
+	    "src": "images/paintings/asianpaintings/full/Mandarin-Collar.jpg",
+	    "thumbnailsrc1" : "images/paintings/asianpaintings/thumbnail/Mandarin-Collar-Thumbnail-2.jpg"
+		"thumbnailsrc" : "images/paintings/asianpaintings/thumbnail/Mandarin-Collar-Thumbnail.jpg"
+	    "label": 'Mandarin Collar',
+		"description" : 'Oil Paint and Mixed Media, 46" x 36" x 6"',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/paintings/asianpaintings/full/Shadow-in-Blue.jpg",
+	    "thumbnailsrc" : "images/paintings/asianpaintings/thumbnail/Shadow-in-Blue-Thumbnail.jpg"
+	    "label": 'Shadow in Blue',
+		"description" : 'Oil Paint and Mixed Media. 54" x 24" x 14"',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/paintings/asianpaintings/full/Shadow-in-Green.jpg",
+	    "thumbnailsrc" : "images/paintings/asianpaintings/thumbnail/Shadow-in-Green-Thumbnail.jpg"
+	    "label": 'Shadow in Green',
+		"description" : 'Oil Paint and Mixed Media. 53" x 24" x 14"',
+		"id": ?, //unique id
+	}
+	{
+	    "src": "images/paintings/asianpaintings/full/Shadow-in-Red.jpg",
+	    "thumbnailsrc" : "images/paintings/asianpaintings/thumbnail/Shadow-in-Red-Thumbnail.jpg"
+	    "label": 'Shadow in Red',
+		"description" : 'Oil Paint and Mixed Media. 63" x 24" x 20"',
+		"id": ?, //unique id
+	},
+	{
+	    "src": "images/paintings/asianpaintings/full/Waterworld.jpg",
+	    "thumbnailsrc" : "images/paintings/asianpaintings/thumbnail/Waterworld-Thumbnail.jpg"
+	    "label": 'Waterworld',
+		"description" : 'Oil Paint and Mixed Media. 46" x 40" x 6"',
+		"id": ?, //unique id
+	}]
