@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+ <head>
     <meta charset="utf-8">
     <title>Susan Stair</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,10 +45,19 @@
 	          </a>
 	          <a class="brand" href="#">Susan Stair Portfolio</a>
 	          <div class="nav-collapse">
-	            <ul class="nav">
+	            <ul class="nav nav-pills">
 	              <li class="active"><a href="#">Home</a></li>
 	              <li><a href="#about">About</a></li>
 	              <li><a href="#contact">Contact</a></li>
+	              <li class="dropdown">
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle">Work <b class="caret"></b></a>
+       			    <ul class="dropdown-menu">
+          				<li class=""><a href="#buttonGroups">Clay Drawings</a></li>
+          				<li class="active"><a href="#buttonDropdowns">Mosaics</a></li>
+          				<li class="active"><a href="#buttonDropdowns">Paintings</a></li>
+						<li class="active"><a href="#buttonDropdowns">Installations</a></li>
+        			</ul>
+      			  </li>
 	            </ul>
 	          </div><!--/.nav-collapse -->
         	</div>
@@ -57,64 +66,27 @@
     </nav>
 
     <div class="container-fluid">
-      <nav class="row-fluid subnav">
-      		<div class="span1 hoverlink">Background</div>
-    	 	<div class="span1 hoverlink">Resume</div>
-    	 	<div class="span1 hoverlink">Bio</div>
-			<div class="span1 hoverlink">General Statement</div>
-      </nav>
-      <div class="row-fluid nav-images">
-        <div class="span12">
-          <div class="row-fluid">
-            <div class="span2 offset2">
-            	<a href="claydrawings.html">
-					<figure>
-	  					<img src="/macaque.jpg" alt="Clay Drawings">
-	 					<figcaption>Clay Drawings</figcaption>
-					</figure>
-				</a>
-            </div><!--/span-->
-            <div class="span2">
-            	<a href="mosaics.html">
-					<figure>
-	  					<img src="/macaque.jpg" alt="Mosaics">
-	 					<figcaption>Mosaics</figcaption>
-					</figure>
-				</a>
-            </div><!--/span-->
-            <div class="span2">
-            	<a href="paintings.html">
-	             	<figure>
-	  					<img src="/macaque.jpg" alt="Paintings">
-	 					<figcaption>Paintings</figcaption>
-					</figure>
-				</a>
-            </div><!--/span-->
-            <div class="span2">
-            	<a href="installations.html">
-	            	<figure>
-	  					<img src="/macaque.jpg" alt="Installations">
-	 					<figcaption>Installations</figcaption>
-					</figure>
-				</a>
-            </div><!--/span-->
-          </div><!--/row-->
-        </div><!--/span-->
-      </div><!--/row-->
+      <div class="span8 viewer">
+          
+       </div>
+    </div><!--/.fluid-container-->
 
-      <hr>
+	<div id="templates">
+		
+	</div>
+	<hr>
 
       <footer>
         <p>&copy; Company 2012</p>
       </footer>
-
-    </div><!--/.fluid-container-->
 
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="bootstrap/js/bootstrap-carousel.js"></script>
+    <script src="js/main.js"></script>
 
   </body>
 </html>
