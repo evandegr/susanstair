@@ -1,36 +1,36 @@
 [{
-	    "src": "images/paintings/clicheverre/full/Low-Tide.jpg",
-		"thumbnailsrc" : "images/paintings/clicheverre/thumbnail/Low-Tide-Thumbnail.jpg"
-	    "label": 'Low Tide',
-		"description" : 'Cliche Verre Print, 20" x 24"',
-		"id": ?, //unique id
+	    "src": "images/paintings/clicheverre/Low-Tide.jpg",
+		"thumbnailsrc" : "images/paintings/clicheverre/Low-Tide-Thumbnail.jpg",
+	    "label": "Low Tide",
+		"description" : "Cliche Verre Print, 20\" x 24\"",
+		"id": "1"
 	},
 	{
-	    "src": "images/paintings/clicheverre/full/Sampler.jpg",
-		"thumbnailsrc" : "images/paintings/clicheverre/thumbnail/Sampler-Thumbnail.jpg"
-	    "label": 'Sampler',
-		"description" : 'Cliche Verre Print, 16" x 20"',
-		"id": ?, //unique id
+	    "src": "images/paintings/clicheverre/Sampler.jpg",
+		"thumbnailsrc" : "images/paintings/clicheverre/Sampler-Thumbnail.jpg",
+	    "label": "Sampler",
+		"description" : "Cliche Verre Print, 16\" x 20\"",
+		"id": "2"
 	},
 	{
-	    "src": "images/paintings/clicheverre/full/Undertow.jpg",
-		"thumbnailsrc" : "images/paintings/clicheverre/thumbnail/Undertow-Thumbnail.jpg"
-	    "label": 'Undertow,
-		"description" : 'Cliche Verre Print, 15" x 20"',
-		"id": ?, //unique id
+	    "src": "images/paintings/clicheverre/Undertow.jpg",
+		"thumbnailsrc" : "images/paintings/clicheverre/Undertow-Thumbnail.jpg",
+	    "label": "Undertow",
+		"description" : "Cliche Verre Print, 15\" x 20\"",
+		"id": "3"
 	},
 	{
-	    "src": "images/paintings/clicheverre/full/Process-Cup.jpg",
-		"thumbnailsrc" : "images/paintings/clicheverre/thumbnail/Process-Cup-Thumbnail.jpg"
-	    "label": 'Process Cup',
-		"description" : 'Cliche Verre Print, 24" x 20"',
-		"id": ?, //unique id
+	    "src": "images/paintings/clicheverre/Process-Cup.jpg",
+		"thumbnailsrc" : "images/paintings/clicheverre/Process-Cup-Thumbnail.jpg",
+	    "label": "Process Cup",
+		"description" : "Cliche Verre Print, 24\" x 20\"",
+		"id": "4"
 	},
 	{
-	    "src": "images/paintings/clicheverre/full/Shadow's-Call.jpg",
-		"thumbnailsrc" : "images/paintings/clicheverre/thumbnail/Shadow's-Call-Thumbnail.jpg"
-	    "label": 'Shadow's Call',
-		"description" : 'Cliche Verre Print, 20" x 24"',
-		"id": ?, //unique id
+	    "src": "images/paintings/clicheverre/Shadow's-Call.jpg",
+		"thumbnailsrc" : "images/paintings/clicheverre/Shadow's-Call-Thumbnail.jpg",
+	    "label": "Shadow's Call",
+		"description" : "Cliche Verre Print, 20\" x 24\"",
+		"id": "5"
 	}]
 	

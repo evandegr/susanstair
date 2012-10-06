@@ -1,35 +1,35 @@
 [{
-	    "src": "images/installations/full/Fabric-Walls.jpg",
-		"thumbnailsrc" : "images/installations/thumbnail/Fabric-Walls-Thumbnail.jpg"
-	    "label": 'Fabric Walls',
-		"description" : 'Delaware Center for Contemporary Art, Wilmington Delaware, 20" x 24"',
-		"id": ?, //unique id
+	    "src": "images/installations/Fabric-Walls.jpg",
+		"thumbnailsrc" : "images/installations/Fabric-Walls-Thumbnail.jpg",
+	    "label": "Fabric Walls",
+		"description" : "Delaware Center for Contemporary Art, Wilmington Delaware, 20\" x 24\"",
+		"id": "1"
 	},
 	{
-	    "src": "images/installations/full/Primarily-an-Issue-of-Color.jpg",
-		"thumbnailsrc" : "images/installations/thumbnail/Primarily-an-Issue-of-Color-Thumbnail.jpg"
-	    "label": 'Primarily an Issue of Color',
-		"description" : 'The Fringe Festival, Hong Kong Art Centre, Hong Kong, 8' x 8' x 14'',
-		"id": ?, //unique id
+	    "src": "images/installations/Primarily-an-Issue-of-Color.jpg",
+		"thumbnailsrc" : "images/installations/Primarily-an-Issue-of-Color-Thumbnail.jpg",
+	    "label": "Primarily an Issue of Color",
+		"description" : "The Fringe Festival, Hong Kong Art Centre, Hong Kong, 8' x 8' x 14'",
+		"id": "2"
 	},
 	{
-	    "src": "images/paintings/installations/full/The-Back-Porch.jpg",
-		"thumbnailsrc" : "images/installations/thumbnail/The-Back-Porch-Thumbnail.jpg"
-	    "label": 'The Back Porch',
-		"description" : 'Westchester State College, Westchester PA, 10' x 12' x 12'',
-		"id": ?, //unique id
+	    "src": "images/paintings/installations/The-Back-Porch.jpg",
+		"thumbnailsrc" : "images/installations/The-Back-Porch-Thumbnail.jpg",
+	    "label": "The Back Porch",
+		"description" : "Westchester State College, Westchester PA, 10' x 12' x 12'",
+		"id": "3"
 	},
 	{
-	    "src": "images/paintings/installations/full/The-Bridge.jpg",
-		"thumbnailsrc" : "images/installations/thumbnail/The-Bridge-Thumbnail.jpg"
-	    "label": 'The Bridge',
-		"description" : 'Thomas Jefferson Cultural Center, Makati Philippines, 10' x 20' x 15'',
-		"id": ?, //unique id
+	    "src": "images/paintings/installations/The-Bridge.jpg",
+		"thumbnailsrc" : "images/installations/The-Bridge-Thumbnail.jpg",
+	    	"label": "The Bridge",
+		"description" : "Thomas Jefferson Cultural Center, Makati Philippines, 10' x 20' x 15'",
+		"id": "4"
 	},
 	{
-	    "src": "images/installations/full/The-Closet.jpg",
-		"thumbnailsrc" : "images/installations/thumbnail/The-Closet-Thumbnail.jpg"
-	    "label": 'The Closet',
-		"description" : 'Philadelphia College of Textiles and Science, Philadelphia PA, 7' x 5' x 2'',
-		"id": ?, //unique id
+	    "src": "images/installations/The-Closet.jpg",
+		"thumbnailsrc" : "images/installations/The-Closet-Thumbnail.jpg",
+	    "label": "The Closet",
+		"description" : "Philadelphia College of Textiles and Science, Philadelphia PA, 7' x 5' x 2'",
+		"id": "5"
 	}]

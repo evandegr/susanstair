@@ -53,7 +53,7 @@
 
 		$('.viewer').append($carousel);
 		
-		$carousel.carousel();
+		$carousel.carousel('pause');
 
 	}
 
