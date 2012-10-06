@@ -16,7 +16,10 @@
 		
 		$.get(url_root + 'templates/slideshow.html',function(data){
 			$templates.append($(data));
-			fillCarousel(jsonfullpath);
+			$.get(url_root + 'templates/thumbnail.html',function(data){
+				$templates.append($(data));
+				fillCarousel(jsonfullpath);
+			});
 		});
 	}
 
@@ -36,24 +39,38 @@
 	function buildCarousel (data){
 		var $templates = $('#templates'),
 		$carousel = $templates.find('#myCarousel'),
+		$thumbnailviewer = $templates.find('.thumbnailViewer'),
+		$thumb = $thumbnailviewer.find('.thumb').clone(),
 		$item = $templates.find('.item').clone();
 		
 		$carousel.find('.item').remove();
+		$thumbnail.find('.thumb').remove();
 		
 		$.each(data,function(){
-			var $itemClone = $item.clone();
+			var $itemClone = $item.clone(),
+			$thumbClone = $thumb.clone();
 			
 			$itemClone.find('.image').attr('src', this.src);
 			$itemClone.find('.image').data('id', this.id);
 			$itemClone.find('.thumbnail-label').text(this.label);
 			$itemClone.find('.description').text(this.description);
 			
+			$thumbClone.attr('src', this.thumbnailsrc);
+			$thumbClone.data('id', this.id);
+			
+			$thumbnailviewer.append($thumbClone);
 			$carousel.find('.carousel-inner').prepend($itemClone);
 		});
 
 		$('.viewer').append($carousel);
+		$('.viewer').append($thumbnailviewer)
 		
+		$carousel.carousel();
 		$carousel.carousel('pause');
+		
+		$thumbnailviewer.find('.thumb').on('click', function(){
+			$carousel.carousel($(this.data('id') - 1));
+		});
 
 	}
 
