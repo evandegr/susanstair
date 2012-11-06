@@ -40,11 +40,11 @@
 		var $templates = $('#templates'),
 		$carousel = $templates.find('#myCarousel'),
 		$thumbnailviewer = $templates.find('.thumbnailViewer'),
-		$thumb = $thumbnailviewer.find('.thumb').clone(),
+		$thumb = $thumbnailviewer.find('.thumbImg').clone(),
 		$item = $templates.find('.item').clone();
 		
 		$carousel.find('.item').remove();
-		$thumbnail.find('.thumb').remove();
+		$thumbnailviewer.find('.thumbnail').remove();
 		
 		$.each(data,function(){
 			var $itemClone = $item.clone(),
@@ -58,7 +58,7 @@
 			$thumbClone.attr('src', this.thumbnailsrc);
 			$thumbClone.data('id', this.id);
 			
-			$thumbnailviewer.append($thumbClone);
+			$thumbnailviewer.prepend($thumbClone);
 			$carousel.find('.carousel-inner').prepend($itemClone);
 		});
 
@@ -66,9 +66,11 @@
 		$('.viewer').append($thumbnailviewer)
 		
 		$carousel.carousel();
-		$carousel.carousel('pause');
+		$carousel.on('slid', function(){
+			$carousel.carousel('pause');
+		});
 		
-		$thumbnailviewer.find('.thumb').on('click', function(){
+		$thumbnailviewer.find('.thumbImg').on('click', function(){
 			$carousel.carousel($(this.data('id') - 1));
 		});
 
