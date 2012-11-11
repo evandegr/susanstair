@@ -1,30 +1,30 @@
 [
 	{
-	    "src": "images/paintings/rockfaces/Catskill-Rocks.jpg",
-		"thumbnailsrc" : "images/paintings/rockfaces/Catskill-Rocks-Thumbnail.jpg",
+	    "src": "../images/paintings/rockfaces/Catskill-Rocks.jpg",
+		"thumbnailsrc" : "../images/paintings/rockfaces/Catskill-Rocks-Thumbnail.jpg",
 	    "label": "Catskill Rocks",
 		"description" : "Oil Paint and Mixed Media, 24\" x 30\"",
-		"id": "1"
+		"id": "4"
 	},
 	{
-	    "src": "images/paintings/rockfaces/Pacific-View.jpg",
-		"thumbnailsrc" : "images/paintings/rockfaces/Pacific-View-Thumbnail.jpg",
-	    "label": 'Pacific View',
+	    "src": "../images/paintings/rockfaces/Pacific-View.jpg",
+		"thumbnailsrc" : "../images/paintings/rockfaces/Pacific-View-Thumbnail.jpg",
+	    "label": "Pacific View",
 		"description" : "Oil Paint and Mixed Media, 20\" x 16\"",
-		"id": "2"
-	},
-	{
-	    "src": "images/paintings/rockfaces/Stalagmites.jpg",
-		"thumbnailsrc" : "images/paintings/rockfaces/Stalagmites-Thumbnail.jpg",
-	    "label": "Stalagmites",
-		"description" : "Oil Paint and Mixed Media, 20\" x 24\"",
 		"id": "3"
 	},
 	{
-	    "src": "images/paintings/rockfaces/Rock-Faces,-a-quilt.jpg",
-		"thumbnailsrc" : "images/paintings/rockfaces/Rock-Faces,-a-quilt-Thumbnail.jpg",
+	    "src": "../images/paintings/rockfaces/Stalagmites.jpg",
+		"thumbnailsrc" : "../images/paintings/rockfaces/Stalagmites-Thumbnail.jpg",
+	    "label": "Stalagmites",
+		"description" : "Oil Paint and Mixed Media, 20\" x 24\"",
+		"id": "2"
+	},
+	{
+	    "src": "../images/paintings/rockfaces/Rock-Faces,-a-quilt.jpg",
+		"thumbnailsrc" : "../images/paintings/rockfaces/Rock-Faces,-a-quilt-Thumbnail.jpg",
 	    "label": "Rock Faces, a quilt",
 		"description" : "Oil Paint and Mixed Media, 60\" x 54\"",
-		"id": "4"
+		"id": "1"
 	}
 ]

@@ -70,6 +70,7 @@ figure img{
 	margin-right:5px;
 	box-shadow: 0 0 2px white;
 	cursor:pointer;
+	margin-top: 5px;
 }
 
 .thumbImg:hover{
@@ -78,4 +79,55 @@ figure img{
 
 .selected{
 	border:2px solid white;
+}
+
+.about, .contact{
+	height:475px;
+	color : white;
+	border-radius : 5px;
+	border : 1px solid white;
+}
+
+.details {
+	margin-left:100px;
+	margin-top:100px;
+	font-size:20px;
+}
+
+.bio{
+	display:block;
+	text-align:center;
+	margin:auto;
+	margin-top:125px;
+}
+
+.about .bio{
+	margin-top:-40px;
+}
+
+.contact .bio{
+	width : 450px;
+}
+
+.about h2{
+	margin-top:50px;
+	margin-left:50px;
+}
+
+.about .details{
+	margin-top:50px;
+}
+
+.aboutone{
+	float:left;
+	width : 400px;
+	margin :10px;
+	margin-top:25px;
+}
+
+.abouttwo{
+	float:right;
+	width : 400px;
+	margin: 10px;
+	margin-top:25px;
 }

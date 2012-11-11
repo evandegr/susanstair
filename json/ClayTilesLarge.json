@@ -4,55 +4,69 @@
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/elm-thumbnail.jpg",
 	    "label": "Elm",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "1"
+		"id": "10"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/dawn-redwood.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/dawn-redwood-thumbnail.jpg",
 	    "label": "Dawn Redwood",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "2"
+		"id": "9"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/cedar.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/cedar-thumbnail.jpg",
 	    "label": "Cedar",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "3"
+		"id": "8"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/fraser-fir.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/fraser-fir-thumbnail.jpg",
 	    "label": "Fraser Fir",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "4"
+		"id": "7"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/Osage-Orange-Altar.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/Osage-Orange-Altar-thumbnail.jpg",
 	    "label": "Osage Orange Altar",
 		"description" : "9\" x 10\" x 1\", Clay",
-		"id": "5"
+		"id": "6"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/old-apple.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/old-apple_thumbnail.jpg",
 	    "label": "Old Apple",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "6"
+		"id": "5"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/Scotch-Pine-Altar.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/Scotch-Pine-Altar-thumbnail.jpg",
 	    "label": "Scotch-Pine-Altar",
 		"description" : "9\" x 12\" x 1\", Clay",
-		"id": "8"
+		"id": "4"
 	},
 	{
 	    "src": "../images/clay-drawings/clay-tiles-large/White-Birch.jpg",
 		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/White-Birch-thumbnail.jpg",
 	    "label": "White Birch",
 		"description" : "9\" x 9\" x 1\", Clay",
-		"id": "9"
+		"id": "3"
+	},
+	{
+	    "src": "../images/clay-drawings/clay-tiles-large/Scotch-Pine-547.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/Scotch-Pine-547-thumbnail.jpg",
+	    "label": "Scotch Pine #547",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "2"
+	},
+	{
+	    "src": "../images/clay-drawings/clay-tiles-large/Quadrangle.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-large/Quadrangle-thumbnail.jpg",
+	    "label": "Quadrangle",
+		"description" : "9\" x 9\" x 1\", Clay",
+		"id": "1"
 	}
 ]

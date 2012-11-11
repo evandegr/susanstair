@@ -1,5 +1,4 @@
-[
-	{
+[{
 	    "src": "../images/paintings/asianpaintings/Mandarin-Collar.jpg",
 		"thumbnailsrc" : "../images/paintings/asianpaintings/Mandarin-Collar-Thumbnail.jpg",
 	    "label": "Mandarin Collar",
@@ -33,5 +32,4 @@
 	    "label": "Waterworld",
 		"description" : "Oil Paint and Mixed Media. 46\" x 40\" x 6\"",
 		"id": "1"
-	}
-]
+	}]

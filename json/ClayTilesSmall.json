@@ -1,44 +1,44 @@
 [
 	{
-	    "src": "images/clay-drawings/clay-tiles-small/Aspen.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/Aspen-thumbnail.jpg",
+	    "src": "../images/clay-drawings/clay-tiles-small/Aspen.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/Aspen-thumbnail.jpg",
 	    "label": "Aspen",
 		"description" : "6\" x 8\" x 1\", Clay",
-		"id": "1"
+		"id": "6"
 	},
 	{
-	    "src": "images/clay-drawings/clay-tiles-small/Fox-Valley.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/Fox-Valley-thumbnail.jpg",
+	    "src": "../images/clay-drawings/clay-tiles-small/Fox-Valley.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/Fox-Valley-thumbnail.jpg",
 	    "label": "Fox Valley",
-		"description" : "6\" x 8\" x 1\", Clay",
-		"id": "2"
-	},
-	{
-	    "src": "images/clay-drawings/clay-tiles-small/Osage-Orange.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/Osage-Orange-thumbnail.jpg",
-	    "label": "Osage Orange",
-		"description" : "6.5\" x 8.5\" x 1\", Clay",
-		"id": "3"
-	},
-		{
-	    "src": "images/clay-drawings/clay-tiles-small/Scotch-Pine.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/Scotch-Pine-thumbnail.jpg",
-	    "label": "Scotch Pine",
-		"description" : "6\" x 8\" x 1\", Clay",
-		"id": "4"
-	},
-	{
-	    "src": "images/clay-drawings/clay-tiles-small/White-Birch-2.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/White-Birch-2-thumbnail.jpg",
-	    "label": "White Birch",
 		"description" : "6\" x 8\" x 1\", Clay",
 		"id": "5"
 	},
 	{
-	    "src": "images/clay-drawings/clay-tiles-small/White-Birch.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-tiles-small/White-Birch-thumbnail.jpg",
+	    "src": "../images/clay-drawings/clay-tiles-small/Osage-Orange.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/Osage-Orange-thumbnail.jpg",
+	    "label": "Osage Orange",
+		"description" : "6.5\" x 8.5\" x 1\", Clay",
+		"id": "4"
+	},
+		{
+	    "src": "../images/clay-drawings/clay-tiles-small/Scotch-Pine.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/Scotch-Pine-thumbnail.jpg",
+	    "label": "Scotch Pine",
+		"description" : "6\" x 8\" x 1\", Clay",
+		"id": "3"
+	},
+	{
+	    "src": "../images/clay-drawings/clay-tiles-small/White-Birch-2.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/White-Birch-2-thumbnail.jpg",
+	    "label": "White Birch",
+		"description" : "6\" x 8\" x 1\", Clay",
+		"id": "2"
+	},
+	{
+	    "src": "../images/clay-drawings/clay-tiles-small/White-Birch.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-tiles-small/White-Birch-thumbnail.jpg",
 	    "label": "White Birch 2",
 		"description" : "6\" x 8\" x 1\", Clay",
-		"id": "6"
+		"id": "1"
 	}
 ]
