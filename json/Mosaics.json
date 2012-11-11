@@ -1,28 +1,30 @@
-[{
-	    "src": "images/mosaics/Phipps-Mosaic.jpg",
+[
+	{
+	    "src": "../images/mosaics/Phipps-Mosaic.jpg",
 		"thumbnailsrc": "images/mosaics/Phipps-Mosaic-thumbnail.jpg",
 	    "label": "Phipps-Mosaic",
 		"description" : "4' x 5'",
-		"id": "1"
+		"id": "4"
 	},
 	{
-	    "src": "images/mosaics/PS-119-Land.jpg",
+	    "src": "../images/mosaics/PS-119-Land.jpg",
 		"thumbnailsrc": "images/mosaics/PS-119-Land-thumbnail.jpg",
-	    "label": "PS 119 'Land'",
+	    "label": "PS 119' Land'",
+		"description" : "5' x 5'",
+		"id": "3"
+	},
+	{
+	    "src": "../images/mosaics/PS-119-Sea.jpg",
+		"thumbnailsrc": "images/mosaics/PS-119-Sea-thumbnail.jpg",
+	    "label": "PS 119 Sea",
 		"description" : "5' x 5'",
 		"id": "2"
 	},
 	{
-	    "src": "images/mosaics/PS-119-Sea.jpg",
-		"thumbnailsrc": "images/mosaics/PS-119-Sea-thumbnail.jpg",
-	    "label": "PS 119 Sea",
-		"description" : "5' x 5'"",
-		"id": "3"
-	},
-	{
-	    "src": "images/mosaics/PS-189-By-The-Waters Mural.jpg",
-		"thumbnailsrc": "images/mosaics/PS-189-By-The-Waters Mural-thumbnail.jpg",
+	    "src": "../images/mosaics/PS-189-By-The-Waters-Mural.jpg",
+		"thumbnailsrc": "images/mosaics/PS-189-By-The-Waters-Mural-thumbnail.jpg",
 	    "label": "PS 189 By the Waters Mural",
 		"description" : "9' x 18'",
-		"id": "4"
-	}]
+		"id": "1"
+	}
+]

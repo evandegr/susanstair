@@ -3,6 +3,10 @@ body {
 	background-color: black;
 }
 
+.paintings.nav-images {
+	margin-left:100px;
+}
+
 .header{
 	margin-top:1%;
 }
@@ -19,6 +23,13 @@ body {
 
 .hoverlink{
 	color:white;
+	width : auto !important;
+}
+
+.hoverlink a{
+	color:white;
+	cursor:pointer;
+	text-decoration : none;
 }
 
 .subnav{
@@ -26,7 +37,7 @@ body {
 }
 
 .viewer{
-	margin-top:150px;
+	margin-top:30px;
 	margin-left:200px;
 	margin-bottom:200px;
 }
@@ -58,4 +69,13 @@ figure img{
 	height:75px;
 	margin-right:5px;
 	box-shadow: 0 0 2px white;
+	cursor:pointer;
+}
+
+.thumbImg:hover{
+	border:1px solid white;
+}
+
+.selected{
+	border:2px solid white;
 }

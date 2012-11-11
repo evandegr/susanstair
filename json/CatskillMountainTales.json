@@ -1,23 +1,23 @@
 [
 	{
-	    "src": "images/paintings/catskillmountaintales/Acadian-Dreams.jpg",
-		"thumbnailsrc" : "images/paintings/catskillmountaintales/Acadian-Dreams-Thumbnail.jpg",
+	    "src": "../images/paintings/catskillmountaintales/Acadian-Dreams.jpg",
+		"thumbnailsrc" : "../images/paintings/catskillmountaintales/Acadian-Dreams-Thumbnail.jpg",
 	    "label": "Acadian Dreams",
 		"description" : "Oil Paint and Mixed Media, 3' x 4' x 2\"",
-		"id": "1"
+		"id": "3"
 	},
 	{
-	    "src": "images/paintings/catskillmountaintales/Catskill-Delta-Blues.jpg",
-		"thumbnailsrc" : "images/paintings/catskillmountaintales/Catskill-Delta-Blues-Thumbnail.jpg",
+	    "src": "../images/paintings/catskillmountaintales/Catskill-Delta-Blues.jpg",
+		"thumbnailsrc" : "../images/paintings/catskillmountaintales/Catskill-Delta-Blues-Thumbnail.jpg",
 	    "label": "Catskill Delta Blues",
 		"description" : "Oil Paint and Mixed Media, 3' x 4' x 2\"",
 		"id": "2"
 	},
 	{
-	    "src": "images/paintings/catskillmountaintales/Sculpted-Ice.jpg",
-		"thumbnailsrc" : "images/paintings/catskillmountaintales/Sculpted-Ice-Thumbnail.jpg",
+	    "src": "../images/paintings/catskillmountaintales/Sculpted-Ice.jpg",
+		"thumbnailsrc" : "../images/paintings/catskillmountaintales/Sculpted-Ice-Thumbnail.jpg",
 	    "label": "Sculpted Ice",
 		"description" : "Oil Paint and Mixed Media, 3' x 4' x 2\"",
-		"id": "3"
+		"id": "1"
 	}
 ]

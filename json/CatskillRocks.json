@@ -1,16 +1,16 @@
 [
 	{
-	    "src": "images/paintings/catskillrocks/Curved-Space.jpg",
-		"thumbnailsrc" : "images/paintings/catskillrocks/Curved-Space-Thumbnail.jpg",
+	    "src": "../images/paintings/catskillrocks/Curved-Space.jpg",
+		"thumbnailsrc" : "../images/paintings/catskillrocks/Curved-Space-Thumbnail.jpg",
 	    "label": "Curved Space",
 		"description" : "Oil Paint and Mixed Media, 20\" x 48\"",
-		"id": "1"
+		"id": "2"
 	},
 	{
-	    "src": "images/paintings/catskillrocks/Triptych.jpg",
-		"thumbnailsrc" : "images/paintings/catskillrocks/Triptych-Thumbnail.jpg",
+	    "src": "../images/paintings/catskillrocks/Triptych.jpg",
+		"thumbnailsrc" : "../images/paintings/catskillrocks/Triptych-Thumbnail.jpg",
 	    "label": "Triptych",
 		"description" : "Oil Paint and Mixed Media, 20\" x 48\"",
-		"id": "2"
+		"id": "1"
 	}
 ]
