@@ -1,7 +1,7 @@
 [
 	{
-	    "src": "images/clay-drawings/clay-trees-small/Sycamore.jpg",
-		"thumbnailsrc": "images/clay-drawings/clay-trees-small/Sycamore-thumbnail.jpg",
+	    "src": "../images/clay-drawings/clay-trees-small/Sycamore.jpg",
+		"thumbnailsrc": "../images/clay-drawings/clay-trees-small/Sycamore-thumbnail.jpg",
 	    "label": "Sycamore",
 		"description" : "40\" x 8\" x 2\", Clay",
 		"id": "1"

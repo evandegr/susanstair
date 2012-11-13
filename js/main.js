@@ -4,7 +4,7 @@
 
 (function(){
 	
-	var url = window.location.href.split('.')[0].split('/'),
+	var url = window.location.href.split('.')[1].split('/'),
 	url_root = window.location.href.split('/').length > 4 ? '../' : '',
 	jsonfilename = url[url.length-1],
 	jsonfullpath = url_root + 'json/' + jsonfilename + '.json';
